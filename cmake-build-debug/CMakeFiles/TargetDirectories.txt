@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Spravca/Desktop/C/MaxMin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Spravca/Desktop/C/MaxMin/cmake-build-debug/CMakeFiles/MaxMin.dir
+/cygdrive/c/Users/Spravca/Desktop/C/MaxMin/cmake-build-debug/CMakeFiles/edit_cache.dir
